@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Pranjal-Jayaswal/Pranjal-Jayaswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on NodeJS.
+- 🌱 I’m currently learning ReactJS.
+- 🤔 I’m looking for help with AWS.
+- 📫 Reach me by my mail ID: pranjaljsl2910@gmail.com 
+- ⚡ Fun fact: I am a Marvel Fan :)
+
+
+
+<a href="https://github.com/Pranjal-Jayaswal/Pranjal-Jayaswal/blob/master/CV__Pranjal%20Jayaswal.pdf">
+<img src="https://github.com/Pranjal-Jayaswal/Pranjal-Jayaswal/blob/master/resume.png" alt="Resume Icon" width="25" height="25">     My Resume</a>
