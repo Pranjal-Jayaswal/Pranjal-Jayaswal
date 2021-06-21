@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on NodeJS.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 Also i am learning ReactJS these days.
 - 🤔 I’m looking for help with AWS.
-- 📫 Reach me by my mail ID: pranjaljsl2910@gmail.com 
+- 📫 Reach me by my mail ID : pranjaljsl2910@gmail.com 
 - ⚡ Fun fact: I am a Marvel Fan :)
 
 
